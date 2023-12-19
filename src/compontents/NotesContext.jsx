@@ -38,12 +38,6 @@ export function NoteProvider({ children }) {
       content: "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
       lastUpdate: "5 weeks ago",
     },
-    {
-      id: 6,
-      title: "Node",
-      content: "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
-      lastUpdate: "4 weeks ago",
-    },
   ]);
 
   const addNote = (note) => {
